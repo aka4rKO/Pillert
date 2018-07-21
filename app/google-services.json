@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "32042083930",
+    "firebase_url": "https://pillert-a9551.firebaseio.com",
+    "project_id": "pillert-a9551",
+    "storage_bucket": "pillert-a9551.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32042083930:android:d0ead82b1106904c",
+        "android_client_info": {
+          "package_name": "com.nayak.initiative.pillert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32042083930-6ktgm1ovf7bbeumvcn4jmahqfmdshcga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nayak.initiative.pillert",
+            "certificate_hash": "b4cc8f1b1284c0a070391f9231a42cd7a438bf19"
+          }
+        },
+        {
+          "client_id": "32042083930-2fllam4vfa6alqr969h24lgkcrvnrfo2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "32042083930-2fllam4vfa6alqr969h24lgkcrvnrfo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChYdS2-xT_Ol9zrwjRkCfgP1uKdKNGFJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32042083930-2fllam4vfa6alqr969h24lgkcrvnrfo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
